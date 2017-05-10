@@ -1,0 +1,13 @@
+logging:
+  #file: log.log
+  level:
+    root: INFO
+
+server:
+  port: 8186
+
+spring:
+  application:
+    name: eureka-server
+
+words: I,You,He,She,It
